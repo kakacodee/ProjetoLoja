@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
               "ToolTip": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeToolTip": "ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T11:34:30.97Z",
               "EditorCaption": ""
@@ -77,7 +77,8 @@
               "RelativeToolTip": "ProjetoLoja\\Models\\Pedido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T11:30:54.131Z"
+              "WhenOpened": "2025-08-20T11:30:54.131Z",
+              "EditorCaption": ""
             }
           ]
         }
