@@ -8,20 +8,20 @@ namespace ProjetoLoja.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
         private readonly ProdutoRepositorio _produtoRepositorio;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, ProdutoRepositorio produtoRepositorio)
         {
             _logger = logger;
+            _produtoRepositorio = produtoRepositorio;
         }
+
 
         public async Task<IActionResult> Index()
         {
             var produtos = await _produtoRepositorio.TodosProdutos();
-            return View(produtos);  
+            return View(produtos);
         }
-
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
@@ -31,3 +31,4 @@ namespace ProjetoLoja.Controllers
         }
     }
 }
+

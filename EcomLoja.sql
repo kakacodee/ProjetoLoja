@@ -1,3 +1,4 @@
+drop database EcomLoja;
 create database EcomLoja;
 use EcomLoja;
 
@@ -8,7 +9,6 @@ Descricao varchar(100),
 Preco decimal(10,2),
 ImageUrl varchar(255),
 Estoque int
-
 );
 
 create table pedido(
@@ -32,6 +32,9 @@ PrecoUnitario decimal(10,2)
 
 -- CONSULTANDO AS TABELAS DO BANCO
 
-select * from produtos;
+select * from produto;
 select * from pedido;
 select * from itemPedido;
+insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('John Pork','John Pork',150.00, 'imagens/jogo1.jfif',10);
+insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Steak','Steak',150.00, 'imagens/jogo2.jpeg',10);
+insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Galinha da Nike','Galinha da Nike',150.00, 'imagens/galinha da Nike.jfif',10);
