@@ -35,6 +35,6 @@ PrecoUnitario decimal(10,2)
 select * from produto;
 select * from pedido;
 select * from itemPedido;
-insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('John Pork','John Pork',150.00, 'imagens/jogo1.jfif',10);
-insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Steak','Steak',150.00, 'imagens/jogo2.jpeg',10);
-insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Galinha da Nike','Galinha da Nike',150.00, 'imagens/galinha da Nike.jfif',10);
+insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Negresco','Negresco',150.00, 'imagens/jogo1.webp',10);
+insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Tortinhas','Tortinhas',150.00, 'imagens/jogo2.webp',10);
+insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Chocolicia','Chocolicia',150.00, 'imagens/jogo3.jfif',10);
