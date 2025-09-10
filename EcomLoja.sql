@@ -35,6 +35,6 @@ PrecoUnitario decimal(10,2)
 select * from produto;
 select * from pedido;
 select * from itemPedido;
-insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Futurinhos Black','Futurinhos Black',150.00, 'imagens/jogo1.jpeg',10);
-insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Tortinhas','Tortinhas',150.00, 'imagens/jogo2.webp',10);
-insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Chocolicia','Chocolicia',150.00, 'imagens/jogo3.jfif',10);
+insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Futurinhos Black','Futurinhos Black',150.00, 'imagens/jogo1.jpeg',10000);
+insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Tortinhas','Tortinhas',150.00, 'imagens/jogo2.webp',10000);
+insert into produto(Nome,Descricao,Preco,ImageUrl,Estoque)values('Chocolicia','Chocolicia',150.00, 'imagens/jogo3.jfif',10000);

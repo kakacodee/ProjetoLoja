@@ -19,6 +19,8 @@ builder.Services.AddControllersWithViews();
 
 // Registrar Repositórios
 builder.Services.AddScoped<ProdutoRepositorio>();
+builder.Services.AddScoped<CarrinhoRepositorio>();
+builder.Services.AddScoped<PedidoRepositorio>();
 
 var app = builder.Build();
 

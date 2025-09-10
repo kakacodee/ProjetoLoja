@@ -52,3 +52,4 @@ C:\Users\3ds.BGLAB\Desktop\ProjetoLoja\ProjetoLoja\obj\Debug\net8.0\refint\Proje
 C:\Users\3ds.BGLAB\Desktop\ProjetoLoja\ProjetoLoja\obj\Debug\net8.0\ProjetoLoja.pdb
 C:\Users\3ds.BGLAB\Desktop\ProjetoLoja\ProjetoLoja\obj\Debug\net8.0\ProjetoLoja.genruntimeconfig.cache
 C:\Users\3ds.BGLAB\Desktop\ProjetoLoja\ProjetoLoja\obj\Debug\net8.0\ref\ProjetoLoja.dll
+C:\Users\3ds.BGLAB\Desktop\ProjetoLoja\ProjetoLoja\bin\Debug\net8.0\Newtonsoft.Json.dll

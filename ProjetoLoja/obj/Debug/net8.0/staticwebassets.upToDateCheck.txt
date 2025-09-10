@@ -58,6 +58,6 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\js\site.js
 wwwroot\favicon.ico
 wwwroot\css\site.css
-wwwroot\imagens\galinha da Nike.jfif
-wwwroot\imagens\jogo2.webp
 wwwroot\imagens\jogo3.jfif
+wwwroot\imagens\jogo2.webp
+wwwroot\imagens\jogo1.jpg
