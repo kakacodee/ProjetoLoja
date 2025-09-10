@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\views\\carrinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\repositorio\\carrinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\repositorio\\carrinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +27,20 @@
       "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|c:\\users\\3ds.bglab\\desktop\\projetoloja\\projetoloja\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92F42DBA-048D-4659-9C4A-95A9A1D0C5D0}|ProjetoLoja\\ProjetoLoja.csproj|solutionrelative:projetoloja\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Views\\Carrinho\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoLoja\\Views\\Carrinho\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Views\\Carrinho\\Index.cshtml",
+              "RelativeToolTip": "ProjetoLoja\\Views\\Carrinho\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T11:13:34.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarrinhoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Repositorio\\CarrinhoRepositorio.cs",
+              "RelativeDocumentMoniker": "ProjetoLoja\\Repositorio\\CarrinhoRepositorio.cs",
+              "ToolTip": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Repositorio\\CarrinhoRepositorio.cs",
+              "RelativeToolTip": "ProjetoLoja\\Repositorio\\CarrinhoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:59:22.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ItemCarrinho.cs",
               "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Models\\ItemCarrinho.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Models\\ItemCarrinho.cs",
@@ -59,31 +93,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetoLoja\\Program.cs",
-              "ToolTip": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Program.cs",
-              "RelativeToolTip": "ProjetoLoja\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T11:12:44.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Models\\Produto.cs",
               "RelativeToolTip": "ProjetoLoja\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T10:47:09.243Z"
+              "WhenOpened": "2025-09-03T10:47:09.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoLoja\\Views\\Home\\Index.cshtml",
@@ -91,11 +114,12 @@
               "RelativeToolTip": "ProjetoLoja\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T10:45:45.684Z"
+              "WhenOpened": "2025-09-03T10:45:45.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Controllers\\HomeController.cs",
@@ -103,32 +127,34 @@
               "RelativeToolTip": "ProjetoLoja\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T10:34:41.091Z"
+              "WhenOpened": "2025-08-27T10:34:41.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CarrinhoController.cs",
               "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Controllers\\CarrinhoController.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Controllers\\CarrinhoController.cs",
               "ToolTip": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Controllers\\CarrinhoController.cs",
               "RelativeToolTip": "ProjetoLoja\\Controllers\\CarrinhoController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T10:31:34.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProdutoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeDocumentMoniker": "ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
               "ToolTip": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeToolTip": "ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T11:34:30.97Z"
+              "WhenOpened": "2025-08-20T11:34:30.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -140,7 +166,21 @@
               "RelativeToolTip": "ProjetoLoja\\Models\\Pedido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T11:30:54.131Z"
+              "WhenOpened": "2025-08-20T11:30:54.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoLoja\\Program.cs",
+              "ToolTip": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\Program.cs",
+              "RelativeToolTip": "ProjetoLoja\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:12:44.478Z",
+              "EditorCaption": ""
             }
           ]
         }

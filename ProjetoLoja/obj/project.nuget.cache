@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V22s3d2nzDE=",
+  "dgSpecHash": "umRrwnp39MU=",
   "success": true,
   "projectFilePath": "C:\\Users\\3ds.BGLAB\\Desktop\\ProjetoLoja\\ProjetoLoja\\ProjetoLoja.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\3ds.BGLAB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\3ds.BGLAB\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\3ds.BGLAB\\.nuget\\packages\\mysql.data\\9.4.0\\mysql.data.9.4.0.nupkg.sha512",
+    "C:\\Users\\3ds.BGLAB\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\3ds.BGLAB\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\3ds.BGLAB\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
     "C:\\Users\\3ds.BGLAB\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",

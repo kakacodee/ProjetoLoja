@@ -1,24 +1,36 @@
-﻿using Dapper;
+﻿using ProjetoLoja.Models;
 using MySql.Data.MySqlClient;
-using ProjetoLoja.Models;
+using Dapper;
+
 
 namespace ProjetoLoja.Repositorio
 {
     public class ProdutoRepositorio
     {
-        //variavel de conexão
         private readonly string _connectionString;
-
 
         public ProdutoRepositorio(string connectionString)
         {
             _connectionString = connectionString;
         }
+
         public async Task<IEnumerable<Produto>> TodosProdutos()
         {
             using var connection = new MySqlConnection(_connectionString);
-            var sql = "SELECT Id, Nome, Descricao, Preco, ImageUrl, Estoque FROM produto";
+            var sql = "SELECT Id, Nome, Descricao, Preco, ImageUrl, Estoque FROM produtos";
             return await connection.QueryAsync<Produto>(sql);
         }
+        
+         
+        public async Task<Produto?> ProdutosPorId(int id)
+        {
+            using var connection = new MySqlConnection(_connectionString);
+            var sql = "SELECT Id, Nome, Descricao, Preco, ImageUrl, Estoque FROM produtos WHERE Id = @Id";
+            return await connection.QueryFirstOrDefaultAsync<Produto>(sql, new { Id = id });
+        }
+         
+
     }
+
+
 }
